@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **More HTML and CSS.**
 
+- 👨‍💻 All of my projects are available at [https://github.com/remon66?tab=repositories](https://github.com/remon66?tab=repositories)
+
+- 💬 Ask me about **HTML, CSS, Vue**
+
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
