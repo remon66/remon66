@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rémon</h1>
 <h3 align="center">Junior Software Engineer from The Netherlands</h3>
-
+<br>
 - 🔭 I’m currently working on [Cubecraft Profile Checker](https://github.com/remon66/CubeCraft_Profile_Checker)
 
 - 🌱 I’m currently learning **More HTML and CSS.**
@@ -10,7 +10,7 @@
 - 💬 Ask me about **HTML, CSS, Vue**
 
 - ⚡ Fun fact **I think I am funny**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/typical4485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="typical4485" height="30" width="40" /></a>
