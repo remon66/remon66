@@ -2,13 +2,13 @@
 <h3 align="center">Junior Software Engineer from The Netherlands</h3>
 
 
-- 🔭 I’m currently working on [Cubecraft Profile Checker](https://github.com/remon66/CubeCraft_Profile_Checker)
+- 🔭 I’m currently working on [NumberMatch](https://github.com/remon66/NumberMatch)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Vue**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/remon66?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Vue**
+- 💬 Ask me about **HTML, CSS, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
